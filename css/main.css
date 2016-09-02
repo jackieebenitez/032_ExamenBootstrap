@@ -1,0 +1,24 @@
+.slides{
+	background-image: url("../images/slider1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position:center;
+	max-width: 100%;
+	margin:0%;
+}
+.accesorie-size{
+	width:100%;
+	height:50%;
+}
+.clientes{
+	width:50%;
+	height:50%;
+}
+.clientes-bgimg{
+	background-image: url("../images/client-bg.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position:center;
+	max-width: 100%;
+	margin:0%;
+}
