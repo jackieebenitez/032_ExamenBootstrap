@@ -22,3 +22,7 @@
 	max-width: 100%;
 	margin:0%;
 }
+.border-info{
+	border: 1px solid #e1e1e1;
+	width:50%;
+}
